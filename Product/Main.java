@@ -14,6 +14,6 @@ public class Main
         System.out.println("Hayden Guo");
         System.out.println("Jake Ducati");
         System.out.println("Jiebin Lee");
-        System.out.println("Lalith G.");
+        System.out.println("Kevin G.");
     }
 }
