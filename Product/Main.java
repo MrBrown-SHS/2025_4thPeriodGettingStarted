@@ -13,6 +13,5 @@ public class Main
         System.out.println("Atharv M.");
         System.out.println("Hayden Guo");
         System.out.println("Jiebin Lee");
-        
     }
 }
