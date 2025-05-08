@@ -14,6 +14,6 @@ public class Main {
         System.out.println("Jiebin Lee");
         System.out.println("Kevin G. :3");
         System.out.println("Logan D.");
-        System.out.println("Ishir V.");
+        System.out.println("Ishir Vig");
     }
 }
