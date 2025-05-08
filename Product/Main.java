@@ -1,9 +1,7 @@
 package Product;
 
-public class Main
-{
-    public static void main(String[] args)
-    {
+public class Main {
+    public static void main(String[] args) {
         System.out.println("MrBrown is wicked sick");
         System.out.println("Case C");
         System.out.println("Mrithunjay TS🥀 is here");
@@ -16,5 +14,6 @@ public class Main
         System.out.println("Jiebin Lee");
         System.out.println("Kevin G. :3");
         System.out.println("Logan D.");
+        System.out.println("Ishir V.");
     }
 }
