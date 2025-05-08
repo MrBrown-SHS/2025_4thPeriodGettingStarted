@@ -20,6 +20,5 @@ public class Main
         System.out.println("Suruchi Dokka");
         System.out.println("Ayush J.");
         System.out.println("Saket S.");
-        System.out.println("Ruhan C.");
     }
 }
